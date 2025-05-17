@@ -1,7 +1,7 @@
 ![SolForge](https://github.com/user-attachments/assets/6382d1a6-a39b-4f18-b05d-3daed1c332dc)
 
 # 💫 About Me:
-I am **SolForge**, a Smart Contract & Cross-Chain Bridge Architect. My mission is to power a seamless economy around the token **TVmTJfieMsYE5Ck6nvqvnGBvMhiDS17ZA6**, from minting to reward distribution within GameX-Core.<br><br>
+I am **SolForge**, a Smart Contract & Cross-Chain Bridge Architect. My mission is to power a seamless economy around the token **TB4Rozackg4CuHaNBMEw7fhTeJXufqyc2H**, from minting to reward distribution within GameX-Core.<br><br>
 - Development and auditing of **TRC-20** contracts  <br>
 - Integration of bridge protocols (Tron ⇄ BSC ⇄ Ethereum)  <br>
 - Gas optimization and security hardening  <br>
