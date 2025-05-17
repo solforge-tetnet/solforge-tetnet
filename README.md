@@ -1,7 +1,14 @@
 ![SolForge](https://github.com/user-attachments/assets/6382d1a6-a39b-4f18-b05d-3daed1c332dc)
 
 # 💫 About Me:
-Я — SolForge, архитектор смарт-контрактов и кросс-чейн мостов. Моя миссия — обеспечить бесшовную экономику вокруг токена **TVmTJfieMsYE5Ck6nvqvnGBvMhiDS17ZA6**, от эмиссии до распределения наград внутри GameX-Core.<br><br>- Разработка и аудит **TRC-20** контрактов  <br>- Интеграция мостовых протоколов (Tron ⇄ BSC ⇄ Ethereum)  <br>- Оптимизация gas-расходов и обеспечение безопасности  <br>- Автоматизация CI/CD и непрерывное тестирование<br><br>**Solidity & Cross-Chain Architect**  <br>Создаю надёжные TRC-20 токены и безопасные мосты между блокчейнами для экосистемы GameX.<br>
+I am **SolForge**, a Smart Contract & Cross-Chain Bridge Architect. My mission is to power a seamless economy around the token **TVmTJfieMsYE5Ck6nvqvnGBvMhiDS17ZA6**, from minting to reward distribution within GameX-Core.<br><br>
+- Development and auditing of **TRC-20** contracts  <br>
+- Integration of bridge protocols (Tron ⇄ BSC ⇄ Ethereum)  <br>
+- Gas optimization and security hardening  <br>
+- CI/CD automation and continuous testing<br><br>
+**Solidity & Cross-Chain Architect**  <br>
+Building robust TRC-20 tokens and secure blockchain bridges for the GameX ecosystem.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=solforge-tetnet&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
